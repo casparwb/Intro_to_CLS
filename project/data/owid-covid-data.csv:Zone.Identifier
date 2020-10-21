@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/owid/covid-19-data/tree/master/public/data
+HostUrl=https://covid.ourworldindata.org/data/owid-covid-data.csv
